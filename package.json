@@ -1,0 +1,26 @@
+{
+  "name": "dark-snow-rest",
+  "version": "0.0.0",
+  "description": "A rest API generator for expressjs based on dark-snow-model",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark-snow/rest.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "express",
+    "dark-snow",
+    "darksnow"
+  ],
+  "author": "Khaled Romdhane <heiyukidev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dark-snow/rest/issues"
+  },
+  "homepage": "https://github.com/dark-snow/rest#readme"
+}
